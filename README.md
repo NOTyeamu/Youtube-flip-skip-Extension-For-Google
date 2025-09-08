@@ -21,7 +21,7 @@ Set your own number of seconds for rewind and forward in the extension settings.
 
 ---
 
-###⚙️ Manual installation  
+### ⚙️ Manual installation  
 1. Download the [ZIP file].  
 2. Unpack the zip to a convenient storage location.  
 3. Go to `chrome://extensions` in Chrome.  
